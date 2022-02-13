@@ -1,6 +1,6 @@
-#Passo a passo para instalação do projeto
+# Passo a passo para instalação do projeto
 
-####primeiro passo é baixar o projeto
+#### primeiro passo é baixar o projeto
 
 #### git clone https://github.com/bobzinx/projeto.git
 
